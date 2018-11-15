@@ -6,6 +6,20 @@ description: The landing page for Flutter documentation.
 
 # cheatsheet
 
+
+{% highlight ruby linenos %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}
+
+
 In both HTML and Flutter, child elements or widgets are anchored at
 the top left, by default.
 
