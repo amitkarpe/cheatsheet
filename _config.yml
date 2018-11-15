@@ -3,8 +3,8 @@ title: Amit Karpe
 email: amit@karpe.io
 description: > # this means to ignore newlines until "baseurl:"
   Knowledge sharing about Linux, Kubernets and other technologies.
-baseurl: "/cheatsheet/" # the subpath of your site, e.g. /blog/
-url: "http://karpe.io" # the base hostname & protocol for your site
+#baseurl: "/cheatsheet/" # the subpath of your site, e.g. /blog/
+#url: "http://karpe.io" # the base hostname & protocol for your site
 twitter_username: amitkarpe
 github_username:  amitkarpe
 
