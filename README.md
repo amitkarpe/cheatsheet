@@ -11,3 +11,5 @@ end
 
 
 {{ 'Use "Jekyll" --- the static generator...' | smartify }}
+
+{{ page.title | smartify }}
