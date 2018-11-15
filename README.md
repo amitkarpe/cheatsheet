@@ -6,6 +6,14 @@ description: The landing page for Flutter documentation.
 
 # cheatsheet
 
+.blue {
+  color: blue;
+}
+
+
+This is a paragraph that for some reason we want blue.
+{: .blue}
+
 
 {% highlight ruby linenos %}
 def foo
