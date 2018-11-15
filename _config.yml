@@ -9,7 +9,7 @@ twitter_username: amitkarpe
 github_username:  amitkarpe
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 
 theme: jekyll-theme-architect
 markdown: kramdown
