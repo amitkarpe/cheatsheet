@@ -1,7 +1,3 @@
----
-layout: page
-title: This is page for cheat sheets
----
 
 
 # cheatsheet
